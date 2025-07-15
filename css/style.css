@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f3e7;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    background: white;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+h1 {
+    color: #d2691e;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.info p, .contact p {
+    background: #fffaf0;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px 0;
+    font-size: 16px;
+}
+.contact {
+    font-weight: bold;
+    color: #d2691e;
+    margin-top: 15px;
+}
+#language-selector {
+    margin-top: 20px;
+}
+#language-selector button {
+    background-color: #d2691e;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background 0.3s, transform 0.2s;
+}
+#language-selector button:hover {
+    background-color: #a0522d;
+    transform: scale(1.05);
+}

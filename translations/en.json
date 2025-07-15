@@ -1,0 +1,36 @@
+{
+    "title": "Jack",
+    "description": {
+        "title": "About Me",
+        "message": "Lovely dog."
+    },
+    "size": {
+        "title": "Size",
+        "message": "Medium"
+    },
+    "weight": {
+        "title": "Weight",
+        "message": "10 kg"
+    },
+    "color": {
+        "title": "Color",
+        "message": "Black"
+    },
+    "nature": {
+        "title": "Nature",
+        "message": "Friendly"
+    },
+    "allergy": {
+        "title": "Allergy",
+        "message": "None"
+    },
+    "tricks_language": {
+        "title": "Command Words Language",
+        "message": "English"
+    },
+    "tricks": {
+        "title": "Command Words",
+        "message": "Sit"
+    },
+    "call": "If you found him, please call:"
+}
