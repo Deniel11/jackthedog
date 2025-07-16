@@ -128,6 +128,9 @@ This static webpage is perfect for that purpose, because it can be deploy and I 
 
 And ofcourse, not too large, not too many, so it's working with desktop site and mobile site.
 
+## 📜 License
+This project is open-source and free to use under the [MIT License](https://opensource.org/license/mit/).
+
 ## Contact
 
 @ Daniel Czank
